@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `M.A.DESIGN ART WORKS`,
+    title: `Start Markdown Blog`,
     author: `Masato Nakamura`,
     description: `Site description`,
-    siteUrl: `https://madesignartworks.com/`,
+    siteUrl: `https://markdownblog.com/`,
     social: {
-      twitter: `masatojpn`,
+      twitter: `youraccount`,
     },
   },
   plugins: [
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `M.A.DESIGN ART WORKS`,
-        short_name: `M.A.DESIGN ART WORKS`,
+        name: `Start Markdown Blog`,
+        short_name: `Start Markdown Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
