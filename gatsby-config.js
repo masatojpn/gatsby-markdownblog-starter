@@ -23,7 +23,6 @@ module.exports = {
         name: `assets`,
       },
     },
-    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -67,6 +66,7 @@ module.exports = {
         icon: `content/assets/gatsby-icon.png`,
       },
     },
+    `gatsby-plugin-sass`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
