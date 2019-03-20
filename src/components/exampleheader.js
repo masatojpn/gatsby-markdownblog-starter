@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from 'exampleheader.module.scss'
+import styles from './exampleheader.module.scss'
 import styled from 'styled-components'
 
 
@@ -10,7 +10,7 @@ export default () => (
   </>
 )
 
-const Wrapper = () => styled.header`
+const Wrapper = styled.div`
   display: block;
   position: fixed;
   width: 100%;
