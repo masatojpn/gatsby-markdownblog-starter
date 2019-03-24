@@ -1,6 +1,9 @@
 ---
 title: My Second Post!
 date: "2015-05-06T23:46:37.121Z"
+description: ""
+categories: ['category_one', 'category_two']
+tags: ['tag_one', 'tag_two', 'tag_three']
 featuredImage: "./featured-image.jpg"
 
 ---

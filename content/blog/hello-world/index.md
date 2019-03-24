@@ -3,6 +3,8 @@ title: Hello World
 date: "2015-05-01T22:12:03.284Z"
 description: ""
 keywords: ""
+categories: ['category_one', 'category_two']
+tags: ['tag_one', 'tag_two', 'tag_three']
 featuredImage: "./featured-image.jpg"
 ---
 
